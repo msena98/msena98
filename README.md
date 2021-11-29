@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hello world, I'm Matheus!!
 
-<!--
-**msena98/msena98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: Junior Full Stack Developer!
 
-Here are some ideas to get you started:
+:house_with_garden: I’m from Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:books: I’m currently learning Web Development.
+
+:outbox_tray: 2021 Goals: create a new project and start my dev carreer.
+
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/msena98/msena98/)](https://github.com/msena98/msena98/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheussena21/)](https://www.linkedin.com/in/matheussena21/)
+
+## Language and Tools
+
+[![msena98's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=msena98)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
+
+----------------------------------------------------------------------------------
