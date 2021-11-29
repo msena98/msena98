@@ -1,4 +1,4 @@
-## Hello world, I'm Matheus!!
+## Hello world, I'm Matheus!! :earth_americas:
 
 :computer: Junior Full Stack Developer!
 
@@ -18,12 +18,10 @@
 
 ## Language and Tools
 
-[![msena98's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=msena98)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
+- Enjoy it!! :grin:
 
 ----------------------------------------------------------------------------------
