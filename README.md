@@ -6,7 +6,7 @@
 
 :books: I’m currently learning Web Development.
 
-:outbox_tray: 2021 Goals: create a new project and start my dev carreer.
+:outbox_tray: 2022 Goals: create a new project and start my dev carreer.
 
  
 
