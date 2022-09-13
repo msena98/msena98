@@ -1,6 +1,6 @@
 ## Olá Pessoal! Me chamo Matheus!! :earth_americas:
 
-:computer: Junior Full Stack Developer!
+:computer: Desenvolvedor Junior Full Stack!
 
 :house_with_garden: Sou brasileiro.
 
