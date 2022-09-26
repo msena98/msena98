@@ -1,6 +1,6 @@
 ## Olá Pessoal! Me chamo Matheus!! :earth_americas:
 
-:computer: Desenvolvedor Junior Full Stack!
+:computer: Desenvolvedor PHP Junior Full Stack!
 
 :house_with_garden: Sou brasileiro.
 
@@ -16,9 +16,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheussena21/)](https://www.linkedin.com/in/matheussena21/)
 
-## Linguagem e Ferramentas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - Obrigado pela sua visita!
 
