@@ -1,4 +1,4 @@
-## Olá Pessoal! Me chamo Matheus!! :earth_americas:
+## Olá Mundo! Me chamo Matheus!! :earth_americas:
 
 :computer: Desenvolvedor PHP Junior Full Stack!
 
