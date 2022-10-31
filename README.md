@@ -1,6 +1,6 @@
 ## Olá Mundo! Me chamo Matheus!! :earth_americas:
 
-:computer: Desenvolvedor PHP Junior Full Stack!
+:computer: Desenvolvedor PHP/JS Junior Full Stack!
 
 :house_with_garden: Sou brasileiro.
 
