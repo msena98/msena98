@@ -6,7 +6,7 @@
 
 :books: Atualmente estudando desenvolvimento web.
 
-:outbox_tray: Objetivos em 2023: criar novos projetos e começar minha carreira dev.
+:outbox_tray: Objetivos em 2024: criar novos projetos e começar minha carreira dev.
 
  
 
